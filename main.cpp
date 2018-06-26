@@ -10,10 +10,10 @@ using namespace std;
 int main()
 {
     vector <Uzytkownik> uzytkownicy;
-    cout<<uzytkownicy.size()<<endl;
+   // cout<<uzytkownicy.size()<<endl;
     Uzytkownik uzytkownik;
-//    uzytkownicy=wczytanieUzytkownikowZPliku();
-    cout<<uzytkownicy.size()<<endl;
+uzytkownicy=wczytanieUzytkownikowZPliku();
+   // cout<<uzytkownicy.size()<<endl;
     uzytkownik.rejestracja(uzytkownicy);
     return 0;
 }
