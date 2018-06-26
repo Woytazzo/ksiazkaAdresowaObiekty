@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1529592533 source:e:\przysz³yprogramista\ksiazkaadresowaobiektowo\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<vector>
+	<stdio.h>
+	"uzytkownicy.h"
+
+1530027069 e:\przysz³yprogramista\ksiazkaadresowaobiektowo\uzytkownicy.h
+	<iostream>
+	<windows.h>
+	<fstream>
+	<vector>
+	<stdio.h>
+
+1529592557 source:e:\przysz³yprogramista\ksiazkaadresowaobiektowo\uzytkownicy.cpp
+	<iostream>
+	"uzytkownicy.h"
+
